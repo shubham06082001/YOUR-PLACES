@@ -1,0 +1,9 @@
+{
+  "env": {
+    "DB_USER": "shubham",
+    "DB_NAME": "mern_Your_Places",
+    "DB_PASSWORD": "academind123",
+    "GEOLOCATION_API_KEY": "a37b0bba49fd57",
+    "JWT_KEY": "productionsecret_dont_share"
+  }
+}
